@@ -1,0 +1,22 @@
+Results
+Accuracy: Logistic Regression ~92%, Naive Bayes ~89%, Random Forest ~90%
+![alt text](image-1.png)
+Output Predictions: Spam/Genuine classification with confidence score
+ ![alt text](image-2.png)
+Spam and genuine comments are equal.
+![alt text](image-3.png)
+The dashboard shows that the comment “Congratulations! You won an      iPhone.” is detected as spam.
+ ![alt text](image-4.png)
+ ![alt text](image-5.png)
+ 
+The dashboard shows that the comment “Great work, I learned something new today.” is detected as genuine.
+ ![alt text](image-6.png)
+Graphs: Prediction probability bar chart, spam word cloud
+![alt text](image-7.png)
+ ![alt text](image-8.png)
+ 
+Performance Analysis: Logistic Regression chosen as final model due to highest accuracy
+ ![alt text](image-9.png)
+ ![alt text](image-10.png)
+ 
+
